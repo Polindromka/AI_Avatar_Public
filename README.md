@@ -19,3 +19,7 @@
    1. Github https://github.com/TMElyralab/MuseTalk 
    2. Kaggle https://www.kaggle.com/code/polinakuleshova/musetalk 
    3. [Notebook](musetalk.ipynb)
+6. MuseV
+   1. GitHub https://github.com/TMElyralab/MuseV
+   2. Used for the demonstration.
+   3. This model uses Diffusion model [notebook](stability.ipynb). As the model was too large to run even on Kaggle, we used the resylts for eye-movements from the official repository [link](https://github.com/TMElyralab/MuseV?tab=readme-ov-file#human)
